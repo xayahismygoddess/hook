@@ -1,0 +1,23 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:test2}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "cSpell.ignoreWords": [
+        "noreferrer",
+        "tailwind"
+    ],
+    "cSpell.words": [
+        "Acma",
+        "Gmain",
+        "Instagramlogo",
+        "Linkedinlogo",
+        "noopener",
+        "tailwindcss",
+        "Xlogo"
+    ]
+}
