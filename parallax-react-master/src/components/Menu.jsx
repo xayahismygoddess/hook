@@ -4,6 +4,7 @@ const links = [
     { id: 1, name: 'Map' },
     { id: 2, name: 'About Us' },
     { id: 3, name: 'Coupons' },
+    { id: 4, name: 'Profile'}
 ]
 
 const Menu = ({ isOpen }) => {
